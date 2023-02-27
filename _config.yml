@@ -12,7 +12,6 @@ baseurl: ''
 # otherwise, the layout language will use the default value of 'en'.
 lang: en
 
-
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: America/Toronto
 
@@ -21,10 +20,10 @@ timezone: America/Toronto
 
 title: Michael Sims                     # the main title
 
-tagline: Games, guides, and tutorials   # it will display as the sub-title
+tagline: Programmer & Technical Support # it will display as the sub-title
 
 description: >-                         # used by seo meta and the atom feed
-  A collection of guides and tutorials for a variety of topics from coding to gaming.
+  A collection of guides and tutorials for a variety of topics about technology and programming.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'http://www.michael-sims.ca'
